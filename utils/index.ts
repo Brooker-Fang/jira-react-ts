@@ -1,0 +1,1 @@
+export const isTrue = (val: any): boolean => val === 0 ? true : !!val
